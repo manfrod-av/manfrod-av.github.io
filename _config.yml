@@ -1,0 +1,15 @@
+title: "Manfrod o KSeF i fakturach"
+description: "Praktyczne, źródłowe poradniki o KSeF, e-fakturach i programach do faktur dla małych firm."
+url: "https://manfrod-av.github.io"
+lang: pl-PL
+timezone: Europe/Warsaw
+permalink: /blog/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+author:
+  name: Manfrod
+  url: https://firmowid.pl
+exclude:
+  - README.md
