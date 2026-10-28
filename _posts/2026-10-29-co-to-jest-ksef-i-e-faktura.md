@@ -2,7 +2,7 @@
 layout: post
 title: "Co to jest KSeF i e-faktura? Proste wyjaśnienie dla nowej firmy"
 description: "KSeF, e-faktura, PDF, numer KSeF i UPO wyjaśnione prosto, wraz z terminami obowiązku i pierwszymi krokami."
-date: 2026-10-29 00:32:00 +0100
+date: 2026-10-29 00:31:10 +0100
 ---
 
 # Co to jest KSeF i e-faktura? Proste wyjaśnienie dla nowej firmy
