@@ -2,7 +2,7 @@
 layout: post
 title: "Darmowy program do faktur KSeF: co naprawdę jest za 0 zł"
 description: "Porównanie darmowych programów do faktur KSeF. Sprawdź, co jest za 0 zł: narzędzie MF, limit 3–10 faktur albo KSeF bez limitu z innymi ograniczeniami."
-date: 2026-10-30 12:21:00 +0100
+date: 2026-10-30 11:51:00 +0100
 ---
 
 # Darmowy program do faktur KSeF: co naprawdę jest za 0 zł
